@@ -18,6 +18,6 @@
  <img alt="Stats" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=4rknova&show_icons=true&locale=en&layout=compact&theme=dark" alt="4rknova" />
 
 <!-- BLOG-POST-LIST:START -->
-- Google Play https://play.google.com/store/apps/dev?id=7075717207923460142
+<!-- - Google Play https://play.google.com/store/apps/dev?id=7075717207923460142 -->
 <!-- url to blog games https://www.4rknova.com//blog/2025/09/21/blob-3d --> 
 <!-- BLOG-POST-LIST:END -->
