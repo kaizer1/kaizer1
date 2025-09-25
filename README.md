@@ -16,7 +16,7 @@
   <!-- <a href="https://www.4rknova.com/feed.xml" target="blank"> -->
 
 
-<img alt="Stats" aligh="right" src="https://github-readme-stats.vercel.app/api?username=kaizer1&theme=chartreusedark&hide_border=false&include_all_commits=false&count_private=true" alt="kaizer1" />
+<img alt="Stats" aligh="right" src="https://github-readme-stats.vercel.app/api?username=kaizer1&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true" alt="kaizer1" />
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=kaizer1&theme=dark&hide_border=true)<br/> -->
  <img alt="Stats" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaizer1&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="kaizer1" />
 
