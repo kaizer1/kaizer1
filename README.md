@@ -1,4 +1,4 @@
-🤡 
+<p align="left"> 🤡 
 
 <!-- Here are some ideas to get you started:
 
@@ -17,7 +17,7 @@
   <!-- <a href="https://www.4rknova.com/feed.xml" target="blank"> -->
 
 
- <img alt="Stats" align="left" src="https://github-readme-stats.vercel.app/api?username=kaizer1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="kaizer1" />
+ <img alt="Stats" align="left" src="https://github-readme-stats.vercel.app/api?username=kaizer1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="kaizer1" /> </p>
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=kaizer1&theme=dark&hide_border=true)<br/> -->
 <br />
 
