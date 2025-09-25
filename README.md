@@ -17,7 +17,7 @@
 
  <img alt="Stats" align="left" src="https://github-readme-stats.vercel.app/api?username=kaizer1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&include_all_commits=true" alt="kaizer1" /> 
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=kaizer1&theme=dark&hide_border=true)<br/> -->
- <img alt="Stats1" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaizer1&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&commits_year=2020" alt="kaizer1" />
+ <img alt="Stats1" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaizer1&show_icons=true&locale=en&layout=donut&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&commits_year=2020" alt="kaizer1" />
 
  
 <!-- - [Render more draw call](https://www.loskutnikovgames.com/blog/0)
