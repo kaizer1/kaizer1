@@ -18,7 +18,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=kaizer1&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kaizer1&theme=dark&hide_border=true)<br/>
- <img alt="Stats" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaizer1&show_icons=true&locale=ru&layout=compact&theme=dark" alt="kaizer1" />
+ <img alt="Stats" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaizer1&show_icons=true&locale=en&layout=compact&theme=Tokio Night" alt="kaizer1" />
 
 <!-- BLOG-POST-LIST:START -->
 <!-- - Google Play https://play.google.com/store/apps/dev?id=7075717207923460142 -->
