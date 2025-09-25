@@ -10,13 +10,14 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> theme=vision-friendly-dark
+- best theme: theme=vision-friendly-dark
+--> 
 <!-- <img align="center" src="https://raw.githubusercontent.com/4rknova/4rknova/main/banner.png">
 <div>
   <!-- <a href="https://www.4rknova.com/feed.xml" target="blank"> -->
 
 
- <img alt="Stats" aligh="right" src="https://github-readme-stats.vercel.app/api?username=kaizer1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="kaizer1" />
+ <img alt="Stats" aligh="left" src="https://github-readme-stats.vercel.app/api?username=kaizer1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="kaizer1" />
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=kaizer1&theme=dark&hide_border=true)<br/> -->
  <img alt="Stats" aligh="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaizer1&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="kaizer1" />
 
